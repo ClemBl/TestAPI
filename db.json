@@ -2,19 +2,19 @@
   "repairOrder": [
     {
       "numero": 1,
-      "status": "Ouvert",
+      "status": "Ouvert"
     },
     {
       "numero": 2,
-      "status": "Fermer",
+      "status": "Fermer"
     },
     {
       "numero": 3,
-      "status": "Ouvert",
+      "status": "Ouvert"
     },
     {
       "numero": 4,
-      "status": "Fermer",
+      "status": "Fermer"
     }
   ]
 }
